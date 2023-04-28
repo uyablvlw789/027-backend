@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "scroll_stories",
+  "info": {
+    "singularName": "scroll-story",
+    "pluralName": "scroll-stories",
+    "displayName": "ScrollStory"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "scollstory": {
+      "displayName": "scollstory",
+      "type": "component",
+      "repeatable": true,
+      "component": "scollstory.scollstory"
+    }
+  }
+}

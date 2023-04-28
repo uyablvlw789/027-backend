@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_link_links",
+  "info": {
+    "displayName": "link"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "主按钮"
+    },
+    "url": {
+      "type": "string",
+      "default": "google.com"
+    }
+  }
+}

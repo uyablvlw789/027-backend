@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_scollstory_scollstories",
+  "info": {
+    "displayName": "scollstory"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "cfa": {
+      "type": "component",
+      "repeatable": false,
+      "component": "link.link"
+    },
+    "testimonial": {
+      "displayName": "testimonial",
+      "type": "component",
+      "repeatable": false,
+      "component": "testimonial.testimonial"
+    }
+  }
+}
